@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/ecj-3.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb-2.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet-3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-continuation-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-http-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-io-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-security-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-server-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-servlet-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-webapp-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-xml-8.1.11.v20130520.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.1-glassfish-2.1.v20100127.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-api-2.1-glassfish-2.1.v20100127.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-api-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
